@@ -3,3 +3,4 @@ Just some hacked up tools for grabbing weather data and computing some statistic
 
     $ perl download_data.pl > KMDW-19761204-20150217.csv
     $ perl analyze_windchills.pl KMDW-19761204-20150217.csv > windchills.txt
+    $ perl analyze_snowfall.pl KMDW-19761204-20150217.csv > snowfall.txt
